@@ -1,1 +1,1 @@
-placeholder
+The original Revit (.RVT) file is too large to upload to GitHub. Only images and PDF exports of the project are included here.
